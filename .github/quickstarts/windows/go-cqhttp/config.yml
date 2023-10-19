@@ -15,7 +15,7 @@ account: # 账号相关
   use-sso-address: true
   # 是否允许发送临时会话消息
   allow-temp-session: false
-
+# update by Kaden Liu 
 heartbeat:
   # 心跳频率, 单位秒
   # -1 为关闭心跳
